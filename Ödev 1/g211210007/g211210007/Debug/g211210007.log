@@ -1,0 +1,11 @@
+﻿  g211210007.cpp
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(109,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(111,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(112,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(113,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(114,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(115,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(116,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(117,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\g211210007\g211210007.cpp(118,22): warning C4309: 'initializing': truncation of constant value
+  g211210007.vcxproj -> C:\Users\PC\Desktop\C++\Ayşenur Ödevler\Ödev 1\g211210007\Debug\g211210007.exe
